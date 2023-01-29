@@ -42,7 +42,9 @@ These instructions will provide an overview of the process of creating the AR-Al
 
 1. Point the device's camera at an album cover
 2. Information about the album will appear on the screen, including the album title, artist, release date, and track list.
-3. If album isn't known, use data miner to create the AR overlay.
+3. If album isn't known, use data miner to create the AR overlay. (Example below)
+
+https://user-images.githubusercontent.com/72411761/215362454-0c3a0793-b9d6-461a-86b3-6ca992f0b4f9.mp4
 
 ### Note
 

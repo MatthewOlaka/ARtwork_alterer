@@ -8,9 +8,13 @@ These instructions will provide an overview of the process of creating the AR-Al
 
 ### Design and Planning
 
-1. Create low-level mockups of the interface and layout of the application. These mockups should include the basic structure and layout of the application, including the creation of the data miner that makes the images to be overlayed.
+1. Create low-level mockups of the interface and layout of the application. These mockups should include the basic structure and layout of the application, including the design of the output from the data miner that gets album infomation from the spotify API and makes the images to be overlayed (Shown bellow).
+
+![IMG_0777](https://user-images.githubusercontent.com/72411761/215360841-7a33dafb-8e3e-4610-87b2-574905461637.png)
 
 2. Create high-level mockups of the application. These mockups should include more detailed designs and layout, including the placement of text and images.
+
+![khalid3](https://user-images.githubusercontent.com/72411761/215360898-90d3ba97-5b31-4c4c-87b2-e852802f00ea.png)
 
 3. Define the features and functionality of the application. This includes determining the information that will be displayed when an album cover is scanned and how the user will interact with the application.
 
@@ -25,6 +29,10 @@ These instructions will provide an overview of the process of creating the AR-Al
 3. Implement the functionality of the application, including the ability to scan album covers and display information about the album.
 
 4. Create a python script that takes an album name and artist as input and uses the Spotify API to get information about the album, including the album cover art. The script should also generate an image of the album cover art that can be used in the AR application.
+(Output from the Data Miner shown below)
+
+![freespirit](https://user-images.githubusercontent.com/72411761/215361051-d61f991d-63ce-4bd9-8fc4-9fe89d7f6f30.png)
+
 
 5. Test the application on various devices to ensure compatibility and fix any bugs or issues.
 

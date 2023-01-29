@@ -10,7 +10,7 @@ These instructions will provide an overview of the process of creating the AR-Al
 
 1. Create low-level mockups of the interface and layout of the application. These mockups should include the basic structure and layout of the application, including the design of the output from the data miner that gets album infomation from the spotify API and makes the images to be overlayed (Shown bellow).
 
-![IMG_0777](https://user-images.githubusercontent.com/72411761/215360841-7a33dafb-8e3e-4610-87b2-574905461637.png)
+![IMG_0777](https://user-images.githubusercontent.com/72411761/215361121-a4d0629c-7e7a-4302-af37-36ca97944972.png)
 
 2. Create high-level mockups of the application. These mockups should include more detailed designs and layout, including the placement of text and images.
 
@@ -31,25 +31,18 @@ These instructions will provide an overview of the process of creating the AR-Al
 4. Create a python script that takes an album name and artist as input and uses the Spotify API to get information about the album, including the album cover art. The script should also generate an image of the album cover art that can be used in the AR application.
 (Output from the Data Miner shown below)
 
-![freespirit](https://user-images.githubusercontent.com/72411761/215361051-d61f991d-63ce-4bd9-8fc4-9fe89d7f6f30.png)
-
+![freespirit](https://user-images.githubusercontent.com/72411761/215361127-ae7a0cce-5605-408b-b34a-90280685ffb3.png)
 
 5. Test the application on various devices to ensure compatibility and fix any bugs or issues.
 
 6. Integrate Vuforia to enable the recognition of album covers as image targets.
 
-### Deployment
-
-1. Build the final version of the application in Unity.
-
-2. Deploy the application to the appropriate app store or distribution platform.
-
-3. Make the python script available for usage.
 
 ### Usage
 
 1. Point the device's camera at an album cover
 2. Information about the album will appear on the screen, including the album title, artist, release date, and track list.
+3. If album isn't known, use data miner to create the AR overlay.
 
 ### Note
 

@@ -59,7 +59,7 @@ The album cover art must be one of the pre-defined targets in the project in ord
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
+[Matthew Olaka](https://github.com/MatthewOlaka)
 
 ## License
 
